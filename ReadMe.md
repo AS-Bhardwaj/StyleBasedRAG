@@ -94,11 +94,11 @@ The app will be available at: [http://127.0.0.1:7860](http://127.0.0.1:7860)
 
 Each character is defined in `all_character_style_summary.py`.
 For more characters, you can add their character style summary in all_character_style_summary.py, like thr summary of "Harry Potter" is added like this: 
-    ```
+    ```python
     {   
         "name": "Harry Potter",
         "style_tone": "Curious, brave, humble, often unsure but determined.",
         "summary": "An orphan raised by unkind relatives, Harry is discovering a magical world where he is famous. He is loyal, courageous, and always seeks the truth even when it scares him."
     }
-    ```
+    
 ```
